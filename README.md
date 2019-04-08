@@ -9,9 +9,13 @@ and puts its dominance over the docket classroom.
 {*In Twinkle Twinkle Little Star Melody*}
 
   "Invoice Table, You are good."
+  
   "We still did the best we could..."
+  
   "Visual Studio kind of sucks."
+  
   "It should really self-destruct..."
   
   "Invoice Table, You are good."
+  
   "We still did the best we could..."
